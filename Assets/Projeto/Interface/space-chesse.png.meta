@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 6a226bd0b180d4d4fb2aeec01dd313f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4126491600672167520
+    second: space-chesse_0
+  - first:
+      213: 6303074370455145341
+    second: space-chesse_1
+  - first:
+      213: 368690141966738620
+    second: space-chesse_2
+  - first:
+      213: -8999634597999523259
+    second: space-chesse_3
+  - first:
+      213: 7165366949590693843
+    second: space-chesse_4
+  - first:
+      213: -4085140862185873680
+    second: space-chesse_5
+  - first:
+      213: 4315716973964990386
+    second: space-chesse_6
+  - first:
+      213: -1053055206772846928
+    second: space-chesse_7
+  - first:
+      213: -4017701858183109938
+    second: space-chesse_8
+  - first:
+      213: 6561777282322447770
+    second: space-chesse_9
+  - first:
+      213: -6946246506443305809
+    second: space-chesse_10
+  - first:
+      213: -7429393113692226288
+    second: space-chesse_11
+  - first:
+      213: 1886955768649119065
+    second: space-chesse_12
+  - first:
+      213: 3072737663416911013
+    second: space-chesse_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 19, y: 216, z: 37, w: 149}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space-chesse_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 221
+        width: 1210
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4ad101bb9dd1500800000000000000
+      internalID: 368690141966738620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      space-chesse_0: -4126491600672167520
+      space-chesse_1: 6303074370455145341
+      space-chesse_10: -6946246506443305809
+      space-chesse_11: -7429393113692226288
+      space-chesse_12: 1886955768649119065
+      space-chesse_13: 3072737663416911013
+      space-chesse_2: 368690141966738620
+      space-chesse_3: -8999634597999523259
+      space-chesse_4: 7165366949590693843
+      space-chesse_5: -4085140862185873680
+      space-chesse_6: 4315716973964990386
+      space-chesse_7: -1053055206772846928
+      space-chesse_8: -4017701858183109938
+      space-chesse_9: 6561777282322447770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
